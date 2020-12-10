@@ -10,7 +10,7 @@ function zetTweeWoordenAanElkaar(){
     echo $heleZin;
 }
 
-zetTweeWoordenAanElkaar();
+zetTweeWoordenAanElkaaar();
 ?>
 </body>
 </html>
