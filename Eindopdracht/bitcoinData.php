@@ -18,7 +18,7 @@
 /* 
  * Opdracht 2: Zet hier de $buttons array neer 
  */
-$buttons = ["20","30","40.5"];
+$buttons = [20,30,40.5];
 
 
 /******************************************* OPDRACHT 2 doe je hierboven *******************************************/
